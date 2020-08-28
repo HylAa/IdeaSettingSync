@@ -4,40 +4,12 @@
       <component name="MavenImportPreferences">
         <option name="generalSettings">
           <MavenGeneralSettings>
-            <option name="localRepository" value="E:\Maven_Jar" />
-            <option name="mavenHome" value="D:/Software/MAVEN_HOME/apache-maven-3.6.1" />
-            <option name="userSettingsFile" value="D:\Software\MAVEN_HOME\apache-maven-3.6.1\conf\settings.xml" />
+            <option name="mavenHome" value="E:\JetBrains\apps\IDEA-U\ch-0\202.6397.94\plugins\maven\lib\maven3" />
           </MavenGeneralSettings>
         </option>
       </component>
-      <component name="ProjectCodeStyleConfiguration">
-        <option name="PREFERRED_PROJECT_CODE_STYLE" value="Default" />
-      </component>
       <component name="PropertiesComponent">
-        <property name="last_opened_file_path" value="E:/IDEA_PROJECT" />
         <property name="settings.editor.selected.configurable" value="MavenSettings" />
-      </component>
-      <component name="SvnConfiguration">
-        <configuration>C:\Users\50174\AppData\Roaming\Subversion</configuration>
-      </component>
-      <component name="YarnPnpManager">
-        <pnp-files />
-      </component>
-      <component name="masterDetails">
-        <states>
-          <state key="ProjectJDKs.UI">
-            <settings>
-              <last-edited>1.8</last-edited>
-              <splitter-proportions>
-                <option name="proportions">
-                  <list>
-                    <option value="0.2" />
-                  </list>
-                </option>
-              </splitter-proportions>
-            </settings>
-          </state>
-        </states>
       </component>
     </defaultProject>
   </component>

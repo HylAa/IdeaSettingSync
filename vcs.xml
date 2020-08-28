@@ -7,23 +7,19 @@
           <option name="userName" value="501747372@qq.com" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/ahlian/yolo3-coco.git" />
+          <option name="url" value="https://gitee.com/national_soft/AThousandMileEye" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/ahlian/WisdomBackstage.git" />
+          <option name="url" value="https://github.com/wangerzi/layui-authtree.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/ahlian/Wisdom.git" />
+          <option name="url" value="https://gitee.com/y_project/RuoYi-Cloud.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/ahlian/SmartAgriculture.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/pengzhile/ide-eval-resetter.git" />
+          <option name="url" value="ssh://jiangdawei@192.168.1.211:29418/digitaldocument.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
@@ -34,10 +30,13 @@
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
+        <option value="1" />
         <option value="2" />
         <option value="3" />
-        <option value="1" />
       </list>
     </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>

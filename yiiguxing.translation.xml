@@ -1,63 +1,54 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="IntelliJad integrates the Jad decompiler into Intelli" />
-      <item value="Supports Pug (formerly known as Jade), a template language for JavaScript" />
-      <item value="image Dialog" />
-      <item value="after Upload" />
-      <item value="Evaluation Feedback We need you for 5 seconds. This will be the only time you see this screen, we promise! It's been 14 days since you started evaluating, and your opinion is really valuable to us. If you have any technical questions that you would like to ask If you would like to tell us about the things you love/hate If you have questions about licensing or purchasing Just click the Send Feedback button, and we'll get back to you super fast. You can use the Help | Submit Feedback menu item at any time later. Thanks! We look forward to helping you out in any way we can. The JetBrains Team" />
-      <item value="手机号" />
-      <item value="all Match" />
-      <item value="Data truncated for column 'lowerlimitcolor' at row 1" />
-      <item value="Object to hold information and value for an individual bean property. * Using an object here, rather than just storing all properties in * a map keyed by property name, allows for more flexibility, and the * ability to handle indexed properties etc in an optimized way. * * &lt;p&gt;Note that the value doesn't need to be the final required type: * A {@link BeanWrapper} implementation should handle any necessary conversion, * as this object doesn't know anything about the objects it will be applied to. * * @author Rod Johnson * @author Rob Harrop * @author Juergen Hoeller * @since 13 May 2001 * @see PropertyValues * @see BeanWrapper" />
-      <item value="Could not autowire. No beans of 'Socket' type found" />
-      <item value="No qualifying bean of type 'java.net.Socket' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
-      <item value="java.lang.IndexOutOfBoundsException: toIndex = 44" />
-      <item value="protected" />
-      <item value="object references an unsaved transient instance - save the transient instance before flushing: com.wcgksoft.entity.system.SysRole" />
-      <item value="object references an unsaved transient instance - save the transient instance before flushing: com.wcgksoft.entity.system.SysUser" />
-      <item value="object references an unsaved transient instance - save the transient instance before flushing: com.wcgksoft.entity.system.Enterprise" />
-      <item value="The IDE is running low on memory and this might affect performance. Please consider increasing available heap." />
-      <item value="Repeated column in mapping for entity: com.wcgksoft.entity.admin.Account column: email" />
-      <item value="Authentication failed for token submission" />
-      <item value="Incorrect parameter count in the call to native function 'DATEDIFF'" />
-      <item value=": Incorrect parameter count in the call to native function 'DATEDIFF'" />
-      <item value="Post Construct" />
-      <item value="Pre Destroy" />
-      <item value="Provided id of the wrong type for class com.wcgksoft.entity.valve.Valve. Expected:" />
-      <item value="No CacheResolver specified, and no bean of type CacheManager found. Register a CacheManager bean or remove the @EnableCaching annotation from your configuration." />
-      <item value="copied Buffer" />
-      <item value="Unknown column 'Y0053' in 'where clause'" />
-      <item value="Netty Server Initializer" />
-      <item value="My Decoder" />
-      <item value="byte Array Encoder" />
-      <item value="Address already in use: bind" />
-      <item value="group not set" />
-      <item value="ould not autowire. No beans of 'NettyServerInitializer' type found." />
-      <item value="exception Caught" />
-      <item value="Non-static field 'dataService' cannot be referenced from a static context" />
-      <item value="Autowired members must be defined in valid Spring bean (@Component|@Service|...)" />
-      <item value="fire Channel Read Complete" />
-      <item value="fire Channel Read" />
-      <item value="Handler" />
-      <item value="channel Active" />
-      <item value="finished with non-zero exit value 1" />
-      <item value="No runnable methods" />
-      <item value="Move or commit them before Pull" />
-      <item value="Can't Update No tracked branch configured for branch master or the branch doesn't exist. To make your branch track a remote branch call, for example, git branch --set-upstream-to=origin/master master (show balloon)" />
-      <item value="article Likes Record" />
-      <item value="Error during artifact deployment. See server log for details" />
-      <item value="pro" />
-      <item value="comment" />
-      <item value="Article Likes Record" />
-      <item value="Code is far away from bug with the animal protecting" />
+      <item value="Unknown column 'Value' in 'field list'" />
+      <item value="nested exception is javax.persistence.TransactionRequiredException: Executing an update/delete query" />
+      <item value="Executing an update/delete query" />
+      <item value="execute Update" />
+      <item value="Field 'no' doesn't have a default value" />
+      <item value="Table 'litian.asdasdasdasdxxxx' doesn't exist" />
+      <item value="could not execute statement" />
+      <item value="unexpected token: CREATE" />
+      <item value="Table 'litian.base_data_no01' doesn't exist" />
+      <item value="Transaction already active" />
+      <item value="Failed to load ApplicationContext" />
+      <item value="Aquic" />
+      <item value="Aquic UTC Time Stamp" />
+      <item value="Expected 0 arguments but found 1" />
+      <item value="org.apache.catalina.core.StandardWrapperValve invoke" />
+      <item value="tried to access class org.bson.BSON from class com.mongodb.DBObjectCodec" />
+      <item value="No Persitent Entity information found for the class com.mongodb.BasicDBObject" />
+      <item value="exclude" />
+      <item value="toolbar" />
+      <item value="toolbar Demo" />
+      <item value="Not Blank" />
+      <item value="d properties under 'server.port' to java.lang.Integer:" />
+      <item value="Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured." />
+      <item value="Description: Failed to configure a DataSource: 'url' attribute is not specified and no embedded datasource could be configured. Reason: Failed to determine a suitable driver class" />
+      <item value="Consider the following: If you want an embedded database (H2, HSQL or Derby), please put it on the classpath. If you have database settings to be loaded from a particular profile you may need to activate it (no profiles are currently active)." />
+      <item value="criteria" />
+      <item value="find By Conditions" />
+      <item value="find By Id" />
+      <item value="No tests found matching Method demotest(com.test.test) from org.junit.internal.requests.ClassRequest@689604d9" />
+      <item value="find All" />
+      <item value="nullable" />
+      <item value="Generated Value" />
+      <item value="Properties" />
+      <item value="hibernate Properties" />
+      <item value="Connection refused: connect" />
+      <item value="set So Timeout" />
+      <item value="Append" />
+      <item value="XML tag has empty body" />
+      <item value="Property of 'javax.sql.DataSource' type cannot be injected by 'Properties'" />
+      <item value="'sessionFactory1' defined in class path resource [spring/applicationContext.xml]: Invocation of init method failed; nested exception is org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]" />
+      <item value="used" />
+      <item value="already" />
+      <item value="Configuration problem: Bean name 'propertyConfigurer' is already used in this &lt;beans&gt; element" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="44" />
-        <entry key="ENGLISH" value="44" />
-        <entry key="DANISH" value="1" />
-        <entry key="CZECH" value="1" />
+        <entry key="ENGLISH" value="45" />
       </map>
     </option>
   </component>
